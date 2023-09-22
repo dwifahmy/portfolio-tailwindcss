@@ -1,0 +1,8 @@
+terminal :
+- npm init -y
+- npm instal -D tailwindcss
+- npm tailwindcss init
+
+
+website symbol :
+simpleicons.org
